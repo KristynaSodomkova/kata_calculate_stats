@@ -10,4 +10,8 @@ def test_max_value():
     stats = Stats()
     assert stats.max_value(example_list) == 92
 
+def test_num_of_elements():
+    stats = Stats()
+    assert stats.num_of_elements(example_list) == 6
+
 
