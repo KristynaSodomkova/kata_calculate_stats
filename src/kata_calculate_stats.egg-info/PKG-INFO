@@ -1,0 +1,4 @@
+Metadata-Version: 2.1
+Name: kata-calculate-stats
+Version: 0.0.0
+Provides-Extra: tests

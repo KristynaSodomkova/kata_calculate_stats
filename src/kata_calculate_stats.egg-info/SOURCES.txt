@@ -1,0 +1,6 @@
+setup.py
+src/kata_calculate_stats.egg-info/PKG-INFO
+src/kata_calculate_stats.egg-info/SOURCES.txt
+src/kata_calculate_stats.egg-info/dependency_links.txt
+src/kata_calculate_stats.egg-info/requires.txt
+src/kata_calculate_stats.egg-info/top_level.txt
