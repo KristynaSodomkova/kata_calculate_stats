@@ -10,3 +10,7 @@ class Stats:
     @staticmethod
     def max_value(list_of_num):
         return max(list_of_num)
+
+    @staticmethod
+    def num_of_elements(list_of_num):
+        return len(list_of_num)
