@@ -14,4 +14,6 @@ def test_num_of_elements():
     stats = Stats()
     assert stats.num_of_elements(example_list) == 6
 
-
+def test_average_value():
+    stats = Stats()
+    assert stats.average_value(example_list) == 21.833333
